@@ -450,7 +450,7 @@ function L2jBRFunction41 ()
 	Output = UnknownFunction112(Output,Text);
 	return Output;
 }*/
-
+//https://wiki.beyondunreal.com/Legacy:Useful_String_Functions
 static final function string ReplaceText(coerce string Text, coerce string Replace, coerce string With)
 {
 	local int i;
@@ -2175,10 +2175,10 @@ function bool L2jBRFunction20 (int L2jBRVar24)
 		L2jBRVar156 = True;
 		case 1323:
 		
-			/*if ( UnknownFunction242(GetOptionBool("Neophron","ShowNoble"),True) )
+			if ( UnknownFunction242(GetOptionBool("Neophron","ShowNoble"),True) )
 			{
 				L2jBRVar156 = True;
-			}*/
+			}
 			
 			break;
 		default:
