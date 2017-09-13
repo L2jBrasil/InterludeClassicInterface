@@ -1,0 +1,682 @@
+Log: Log file open, 09/12/17 22:08:10
+Init: Name subsystem initialized
+Init: Detected: Microsoft Windows NT 6.2 (Build: 9200)
+Init: Version: 2107 (126.0)
+Init: Compiled: Sep  3 2016 16:39:13
+Init: Command line: 
+Init: Base directory: C:\Users\Leonan\Downloads\Interface Classic Interlude\Interface Classic Interude\repo\InterludeClassicInterface\ILCompiler\System\
+Init: Character set: Unicode
+Warning: Build label absent!
+Log: Bound to Core.dll
+Init: Object subsystem initialized
+Init: Computer: LEONANVAIO
+Init: User: Leonan
+Init: CPU Page size=4096, Processors=4
+Init: CPU Detected: PentiumPro-class processor (GenuineIntel)
+Init: CPU Features: CMov FPU RDTSC PAE MMX SSE
+Init: CPU Speed=2296.354920 MHz
+Init: Memory total: Phys=2097151K Pagef=4194303K Virt=2097024K
+Init: Working set: 32000 / 159000
+Log: =======================================
+Log: UIScript_ct0.exe: Interface compiler
+Log: Release version: Interlude
+Log: =======================================
+Log: 
+Log: Bound to Editor.dll
+Log: Bound to Engine.dll
+Init: Unreal engine initialized
+Heading: --------------------------Core - Processing---------------------------
+Heading: -------------------------Engine - Processing--------------------------
+Heading: -------------------------NWindow - Processing-------------------------
+Heading: ---------------------Interface - Remove Existing----------------------
+Heading: ------------------------Interface - Processing------------------------
+Warning: Failed to load 'Interface.u': Can't find file 'Interface.u'
+Warning: Failed loading package: Can't find file 'Interface.u'
+Log: Analyzing...
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\AbnormalStatusWnd.uc)
+Log: Class: AbnormalStatusWnd extends UICommonAPI
+Log: Imported: Class Interface.AbnormalStatusWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\ActionWnd.uc)
+Log: Class: ActionWnd extends UICommonAPI
+Log: Imported: Class Interface.ActionWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\BenchMarkMenuWnd.uc)
+Log: Class: BenchMarkMenuWnd extends UIScript
+Log: Imported: Class Interface.BenchMarkMenuWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\BoardWnd.uc)
+Log: Class: BoardWnd extends UIScript
+Log: Imported: Class Interface.BoardWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\CalculatorWnd.uc)
+Log: Class: CalculatorWnd extends UICommonAPI
+Log: Imported: Class Interface.CalculatorWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\ChatFilterWnd.uc)
+Log: Class: ChatFilterWnd extends UIScript
+Log: Imported: Class Interface.ChatFilterWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\ChatWnd.uc)
+Log: Class: ChatWnd extends UICommonAPI
+Log: Imported: Class Interface.ChatWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\ClanDrawerWnd.uc)
+Log: Class: ClanDrawerWnd extends UIScript
+Log: Imported: Class Interface.ClanDrawerWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\ClanWnd.uc)
+Log: Class: ClanWnd extends UIScript
+Log: Imported: Class Interface.ClanWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\CouponEventWnd.uc)
+Log: Class: CouponEventWnd extends UIScript
+Log: Imported: Class Interface.CouponEventWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\DeliverWnd.uc)
+Log: Class: DeliverWnd extends UICommonAPI
+Log: Imported: Class Interface.DeliverWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\DetailStatusWnd.uc)
+Log: Class: DetailStatusWnd extends UIScript
+Log: Imported: Class Interface.DetailStatusWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\DialogBox.uc)
+Log: Class: DialogBox extends UICommonAPI
+Log: Imported: Class Interface.DialogBox
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\DuelManager.uc)
+Log: Class: DuelManager extends UICommonAPI
+Log: Imported: Class Interface.DuelManager
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\EventMatchGMFenceWnd.uc)
+Log: Class: EventMatchGMFenceWnd extends UICommonAPI
+Log: Imported: Class Interface.EventMatchGMFenceWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\EventMatchGMMsgWnd.uc)
+Log: Class: EventMatchGMMsgWnd extends UICommonAPI
+Log: Imported: Class Interface.EventMatchGMMsgWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\EventMatchGMWnd.uc)
+Log: Class: EventMatchGMWnd extends UICommonAPI
+Log: Imported: Class Interface.EventMatchGMWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\EventMatchObserverWnd.uc)
+Log: Class: EventMatchObserverWnd extends UICommonAPI
+Log: Imported: Class Interface.EventMatchObserverWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\EventMatchSpecialMsgWnd.uc)
+Log: Class: EventMatchSpecialMsgWnd extends UICommonAPI
+Log: Imported: Class Interface.EventMatchSpecialMsgWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\FishViewportWnd.uc)
+Log: Class: FishViewportWnd extends UICommonAPI
+Log: Imported: Class Interface.FishViewportWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\GametipWnd.uc)
+Log: Class: GametipWnd extends UIScript
+Log: Imported: Class Interface.GametipWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\GMClanWnd.uc)
+Log: Class: GMClanWnd extends ClanWnd
+Log: Imported: Class Interface.GMClanWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\GMDetailStatusWnd.uc)
+Log: Class: GMDetailStatusWnd extends DetailStatusWnd
+Log: Imported: Class Interface.GMDetailStatusWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\GMInventoryWnd.uc)
+Log: Class: GMInventoryWnd extends InventoryWnd
+Log: Imported: Class Interface.GMInventoryWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\GMMagicSkillWnd.uc)
+Log: Class: GMMagicSkillWnd extends MagicSkillWnd
+Log: Imported: Class Interface.GMMagicSkillWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\GMQuestWnd.uc)
+Log: Class: GMQuestWnd extends QuestTreeWnd
+Log: Imported: Class Interface.GMQuestWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\GMSnoopWnd.uc)
+Log: Class: GMSnoopWnd extends UICommonAPI
+Log: Imported: Class Interface.GMSnoopWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\GMWarehouseWnd.uc)
+Log: Class: GMWarehouseWnd extends WarehouseWnd
+Log: Imported: Class Interface.GMWarehouseWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\GMWnd.uc)
+Log: Class: GMWnd extends UICommonAPI
+Log: Imported: Class Interface.GMWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\GuideWnd.uc)
+Log: Class: GuideWnd extends UIScript
+Log: Imported: Class Interface.GuideWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\HelpHtmlWnd.uc)
+Log: Class: HelpHtmlWnd extends UIScript
+Log: Imported: Class Interface.HelpHtmlWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\HennaInfoWnd.uc)
+Log: Class: HennaInfoWnd extends UIScript
+Log: Imported: Class Interface.HennaInfoWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\HennaListWnd.uc)
+Log: Class: HennaListWnd extends UICommonAPI
+Log: Imported: Class Interface.HennaListWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\HeroTowerWnd.uc)
+Log: Class: HeroTowerWnd extends UIScript
+Log: Imported: Class Interface.HeroTowerWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\InventoryWnd.uc)
+Log: Class: InventoryWnd extends UICommonAPI
+Log: Imported: Class Interface.InventoryWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\InviteClanPopWnd.uc)
+Log: Class: InviteClanPopWnd extends UIScript
+Log: Imported: Class Interface.InviteClanPopWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\ItemEnchantWnd.uc)
+Log: Class: ItemEnchantWnd extends UICommonAPI
+Log: Imported: Class Interface.ItemEnchantWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\LoadingWnd.uc)
+Log: Class: LoadingWnd extends UIScript
+Log: Imported: Class Interface.LoadingWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\LoadingWnd_cn.uc)
+Log: Class: LoadingWnd_cn extends LoadingWnd
+Log: Imported: Class Interface.LoadingWnd_cn
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\LoadingWnd_e.uc)
+Log: Class: LoadingWnd_e extends LoadingWnd
+Log: Imported: Class Interface.LoadingWnd_e
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\LoadingWnd_j.uc)
+Log: Class: LoadingWnd_j extends LoadingWnd
+Log: Imported: Class Interface.LoadingWnd_j
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\LoadingWnd_k.uc)
+Log: Class: LoadingWnd_k extends LoadingWnd
+Log: Imported: Class Interface.LoadingWnd_k
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\LoadingWnd_th.uc)
+Log: Class: LoadingWnd_th extends LoadingWnd
+Log: Imported: Class Interface.LoadingWnd_th
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\LoadingWnd_tw.uc)
+Log: Class: LoadingWnd_tw extends LoadingWnd
+Log: Imported: Class Interface.LoadingWnd_tw
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\MacroEditWnd.uc)
+Log: Class: MacroEditWnd extends UICommonAPI
+Log: Imported: Class Interface.MacroEditWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\MacroInfoWnd.uc)
+Log: Class: MacroInfoWnd extends UICommonAPI
+Log: Imported: Class Interface.MacroInfoWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\MacroListWnd.uc)
+Log: Class: MacroListWnd extends UICommonAPI
+Log: Imported: Class Interface.MacroListWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\MagicSkillWnd.uc)
+Log: Class: MagicSkillWnd extends UICommonAPI
+Log: Imported: Class Interface.MagicSkillWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\MailBtnWnd.uc)
+Log: Class: MailBtnWnd extends UICommonAPI
+Log: Imported: Class Interface.MailBtnWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\MainWnd.uc)
+Log: Class: MainWnd extends UIScript
+Log: Imported: Class Interface.MainWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\ManorCropInfoChangeWnd.uc)
+Log: Class: ManorCropInfoChangeWnd extends UICommonAPI
+Log: Imported: Class Interface.ManorCropInfoChangeWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\ManorCropInfoSettingWnd.uc)
+Log: Class: ManorCropInfoSettingWnd extends UICommonAPI
+Log: Imported: Class Interface.ManorCropInfoSettingWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\ManorCropSellChangeWnd.uc)
+Log: Class: ManorCropSellChangeWnd extends UICommonAPI
+Log: Imported: Class Interface.ManorCropSellChangeWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\ManorCropSellWnd.uc)
+Log: Class: ManorCropSellWnd extends UICommonAPI
+Log: Imported: Class Interface.ManorCropSellWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\ManorInfoWnd.uc)
+Log: Class: ManorInfoWnd extends UICommonAPI
+Log: Imported: Class Interface.ManorInfoWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\ManorSeedInfoChangeWnd.uc)
+Log: Class: ManorSeedInfoChangeWnd extends UICommonAPI
+Log: Imported: Class Interface.ManorSeedInfoChangeWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\ManorSeedInfoSettingWnd.uc)
+Log: Class: ManorSeedInfoSettingWnd extends UICommonAPI
+Log: Imported: Class Interface.ManorSeedInfoSettingWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\ManorShopWnd.uc)
+Log: Class: ManorShopWnd extends ShopWnd
+Log: Imported: Class Interface.ManorShopWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\MenuWnd.uc)
+Log: Class: MenuWnd extends UICommonAPI
+Log: Imported: Class Interface.MenuWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\MinimapWnd.uc)
+Log: Class: MinimapWnd extends UICommonAPI
+Log: Imported: Class Interface.MinimapWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\MinimapWnd_Expand.uc)
+Log: Class: MinimapWnd_Expand extends UICommonAPI
+Log: Imported: Class Interface.MinimapWnd_Expand
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\MultiSellWnd.uc)
+Log: Class: MultiSellWnd extends UICommonAPI
+Log: Imported: Class Interface.MultiSellWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\NPHRN_BeltWnd.uc)
+Log: Class: NPHRN_BeltWnd extends UICommonAPI
+Log: Imported: Class Interface.NPHRN_BeltWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\NPHRN_DopingWnd.uc)
+Log: Class: NPHRN_DopingWnd extends UICommonAPI
+Log: Imported: Class Interface.NPHRN_DopingWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\NPHRN_EventWnd.uc)
+Log: Class: NPHRN_EventWnd extends UICommonAPI
+Log: Imported: Class Interface.NPHRN_EventWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\NPHRN_ItemEnchantWnd.uc)
+Log: Class: NPHRN_ItemEnchantWnd extends UICommonAPI
+Log: Imported: Class Interface.NPHRN_ItemEnchantWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\NPHRN_KeyWnd.uc)
+Log: Class: NPHRN_KeyWnd extends UICommonAPI
+Log: Imported: Class Interface.NPHRN_KeyWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\NPHRN_LoginWnd.uc)
+Log: Class: NPHRN_LoginWnd extends UICommonAPI
+Log: Imported: Class Interface.NPHRN_LoginWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\NPHRN_MagicSkillWnd.uc)
+Log: Class: NPHRN_MagicSkillWnd extends UICommonAPI
+Log: Imported: Class Interface.NPHRN_MagicSkillWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\NPHRN_PartyWnd.uc)
+Log: Class: NPHRN_PartyWnd extends UICommonAPI
+Log: Imported: Class Interface.NPHRN_PartyWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\NPHRN_PlayerSkillGauge.uc)
+Log: Class: NPHRN_PlayerSkillGauge extends UICommonAPI
+Log: Imported: Class Interface.NPHRN_PlayerSkillGauge
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\NPHRN_PotionsWnd.uc)
+Log: Class: NPHRN_PotionsWnd extends UICommonAPI
+Log: Imported: Class Interface.NPHRN_PotionsWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\NPHRN_Registry.uc)
+Log: Class: NPHRN_Registry extends UICommonAPI
+Log: Imported: Class Interface.NPHRN_Registry
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\NPHRN_ReportWnd.uc)
+Log: Class: NPHRN_ReportWnd extends UICommonAPI
+Log: Imported: Class Interface.NPHRN_ReportWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\ObserverWnd.uc)
+Log: Class: ObserverWnd extends UICommonAPI
+Log: Imported: Class Interface.ObserverWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\OlympiadBuff1Wnd.uc)
+Log: Class: OlympiadBuff1Wnd extends OlympiadBuffWnd
+Log: Imported: Class Interface.OlympiadBuff1Wnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\OlympiadBuff2Wnd.uc)
+Log: Class: OlympiadBuff2Wnd extends OlympiadBuffWnd
+Log: Imported: Class Interface.OlympiadBuff2Wnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\OlympiadBuffWnd.uc)
+Log: Class: OlympiadBuffWnd extends UIScript
+Log: Imported: Class Interface.OlympiadBuffWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\OlympiadControlWnd.uc)
+Log: Class: OlympiadControlWnd extends UIScript
+Log: Imported: Class Interface.OlympiadControlWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\OlympiadPlayer1Wnd.uc)
+Log: Class: OlympiadPlayer1Wnd extends OlympiadPlayerWnd
+Log: Imported: Class Interface.OlympiadPlayer1Wnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\OlympiadPlayer2Wnd.uc)
+Log: Class: OlympiadPlayer2Wnd extends OlympiadPlayerWnd
+Log: Imported: Class Interface.OlympiadPlayer2Wnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\OlympiadPlayerWnd.uc)
+Log: Class: OlympiadPlayerWnd extends UIScript
+Log: Imported: Class Interface.OlympiadPlayerWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\OlympiadTargetWnd.uc)
+Log: Class: OlympiadTargetWnd extends UIScript
+Log: Imported: Class Interface.OlympiadTargetWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\OnScreenMessageWnd.uc)
+Log: Class: OnScreenMessageWnd extends UIScript
+Log: Imported: Class Interface.OnScreenMessageWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\OptionWnd.uc)
+Log: Class: OptionWnd extends UIScript
+Log: Imported: Class Interface.OptionWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\PartyMatchMakeRoomWnd.uc)
+Log: Class: PartyMatchMakeRoomWnd extends UIScript
+Log: Imported: Class Interface.PartyMatchMakeRoomWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\PartyMatchOutWaitListWnd.uc)
+Log: Class: PartyMatchOutWaitListWnd extends PartyMatchWndCommon
+Log: Imported: Class Interface.PartyMatchOutWaitListWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\PartyMatchRoomWnd.uc)
+Log: Class: PartyMatchRoomWnd extends PartyMatchWndCommon
+Log: Imported: Class Interface.PartyMatchRoomWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\PartyMatchWaitListWnd.uc)
+Log: Class: PartyMatchWaitListWnd extends PartyMatchWndCommon
+Log: Imported: Class Interface.PartyMatchWaitListWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\PartyMatchWnd.uc)
+Log: Class: PartyMatchWnd extends UIScript
+Log: Imported: Class Interface.PartyMatchWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\PartyMatchWndCommon.uc)
+Log: Class: PartyMatchWndCommon extends UIScript
+Log: Imported: Class Interface.PartyMatchWndCommon
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\PartyWnd.uc)
+Log: Class: PartyWnd extends UICommonAPI
+Log: Imported: Class Interface.PartyWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\PartyWndCompact.uc)
+Log: Class: PartyWndCompact extends UICommonAPI
+Log: Imported: Class Interface.PartyWndCompact
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\PartyWndOption.uc)
+Log: Class: PartyWndOption extends UIScript
+Log: Imported: Class Interface.PartyWndOption
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\PCCafeEventWnd.uc)
+Log: Class: PCCafeEventWnd extends UICommonAPI
+Log: Imported: Class Interface.PCCafeEventWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\PetitionFeedBackWnd.uc)
+Log: Class: PetitionFeedBackWnd extends UICommonAPI
+Log: Imported: Class Interface.PetitionFeedBackWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\PetitionWnd.uc)
+Log: Class: PetitionWnd extends UICommonAPI
+Log: Imported: Class Interface.PetitionWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\PetStatusWnd.uc)
+Log: Class: PetStatusWnd extends UIScript
+Log: Imported: Class Interface.PetStatusWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\PetWnd.uc)
+Log: Class: PetWnd extends UICommonAPI
+Log: Imported: Class Interface.PetWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\PrivateShopWnd.uc)
+Log: Class: PrivateShopWnd extends UICommonAPI
+Log: Imported: Class Interface.PrivateShopWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\QuestBtnWnd.uc)
+Log: Class: QuestBtnWnd extends UICommonAPI
+Log: Imported: Class Interface.QuestBtnWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\QuestListWnd.uc)
+Log: Class: QuestListWnd extends UIScript
+Log: Imported: Class Interface.QuestListWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\QuestTreeWnd.uc)
+Log: Class: QuestTreeWnd extends UICommonAPI
+Log: Imported: Class Interface.QuestTreeWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\RadarContainerWnd.uc)
+Log: Class: RadarContainerWnd extends UIScript
+Log: Imported: Class Interface.RadarContainerWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\RadarWnd.uc)
+Log: Class: RadarWnd extends UIScript
+Log: Imported: Class Interface.RadarWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\RecipeBookWnd.uc)
+Log: Class: RecipeBookWnd extends UICommonAPI
+Log: Imported: Class Interface.RecipeBookWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\RecipeBuyListWnd.uc)
+Log: Class: RecipeBuyListWnd extends UIScript
+Log: Imported: Class Interface.RecipeBuyListWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\RecipeBuyManufactureWnd.uc)
+Log: Class: RecipeBuyManufactureWnd extends UIScript
+Log: Imported: Class Interface.RecipeBuyManufactureWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\RecipeManufactureWnd.uc)
+Log: Class: RecipeManufactureWnd extends UIScript
+Log: Imported: Class Interface.RecipeManufactureWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\RecipeShopWnd.uc)
+Log: Class: RecipeShopWnd extends UICommonAPI
+Log: Imported: Class Interface.RecipeShopWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\RecipeTreeWnd.uc)
+Log: Class: RecipeTreeWnd extends UICommonAPI
+Log: Imported: Class Interface.RecipeTreeWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\RefineryWnd.uc)
+Log: Class: RefineryWnd extends UICommonAPI
+Log: Imported: Class Interface.RefineryWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\ReplayListWnd.uc)
+Log: Class: ReplayListWnd extends UIScript
+Log: Imported: Class Interface.ReplayListWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\ReplayLogoWnd.uc)
+Log: Class: ReplayLogoWnd extends UIScript
+Log: Imported: Class Interface.ReplayLogoWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\ReplayLogoWnd_cn.uc)
+Log: Class: ReplayLogoWnd_cn extends ReplayLogoWnd
+Log: Imported: Class Interface.ReplayLogoWnd_cn
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\ReplayLogoWnd_e.uc)
+Log: Class: ReplayLogoWnd_e extends ReplayLogoWnd
+Log: Imported: Class Interface.ReplayLogoWnd_e
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\ReplayLogoWnd_j.uc)
+Log: Class: ReplayLogoWnd_j extends ReplayLogoWnd
+Log: Imported: Class Interface.ReplayLogoWnd_j
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\ReplayLogoWnd_k.uc)
+Log: Class: ReplayLogoWnd_k extends ReplayLogoWnd
+Log: Imported: Class Interface.ReplayLogoWnd_k
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\ReplayLogoWnd_th.uc)
+Log: Class: ReplayLogoWnd_th extends ReplayLogoWnd
+Log: Imported: Class Interface.ReplayLogoWnd_th
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\ReplayLogoWnd_tw.uc)
+Log: Class: ReplayLogoWnd_tw extends ReplayLogoWnd
+Log: Imported: Class Interface.ReplayLogoWnd_tw
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\RestartMenuWnd.uc)
+Log: Class: RestartMenuWnd extends UICommonAPI
+Log: Imported: Class Interface.RestartMenuWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\SelectDeliverWnd.uc)
+Log: Class: SelectDeliverWnd extends UICommonAPI
+Log: Imported: Class Interface.SelectDeliverWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\ShopWnd.uc)
+Log: Class: ShopWnd extends UICommonAPI
+Log: Imported: Class Interface.ShopWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\Shortcut.uc)
+Log: Class: Shortcut extends UICommonAPI
+Log: Imported: Class Interface.Shortcut
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\ShortcutWnd.uc)
+Log: Class: ShortcutWnd extends UICommonAPI
+Log: Imported: Class Interface.ShortcutWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\SiegeInfoWnd.uc)
+Log: Class: SiegeInfoWnd extends UICommonAPI
+Log: Imported: Class Interface.SiegeInfoWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\SkillTrainInfoWnd.uc)
+Log: Class: SkillTrainInfoWnd extends UICommonAPI
+Log: Imported: Class Interface.SkillTrainInfoWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\SkillTrainListWnd.uc)
+Log: Class: SkillTrainListWnd extends UICommonAPI
+Log: Imported: Class Interface.SkillTrainListWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\SSQMainBoard.uc)
+Log: Class: SSQMainBoard extends UIScript
+Log: Imported: Class Interface.SSQMainBoard
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\StatusWnd.uc)
+Log: Class: StatusWnd extends UIScript
+Log: Imported: Class Interface.StatusWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\SummonedStatusWnd.uc)
+Log: Class: SummonedStatusWnd extends UIScript
+Log: Imported: Class Interface.SummonedStatusWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\SummonedWnd.uc)
+Log: Class: SummonedWnd extends UIScript
+Log: Imported: Class Interface.SummonedWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\SystemMenuWnd.uc)
+Log: Class: SystemMenuWnd extends UICommonAPI
+Log: Imported: Class Interface.SystemMenuWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\SystemMsgWnd.uc)
+Log: Class: SystemMsgWnd extends UIScript
+Log: Imported: Class Interface.SystemMsgWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\TargetStatusWnd.uc)
+Log: Class: TargetStatusWnd extends UICommonAPI
+Log: Imported: Class Interface.TargetStatusWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\TeaserSlideWnd.uc)
+Log: Class: TeaserSlideWnd extends UICommonAPI
+Log: Imported: Class Interface.TeaserSlideWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\TeaserSlideWnd_cn.uc)
+Log: Class: TeaserSlideWnd_cn extends TeaserSlideWnd
+Log: Imported: Class Interface.TeaserSlideWnd_cn
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\TeaserSlideWnd_e.uc)
+Log: Class: TeaserSlideWnd_e extends TeaserSlideWnd
+Log: Imported: Class Interface.TeaserSlideWnd_e
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\TeaserSlideWnd_j.uc)
+Log: Class: TeaserSlideWnd_j extends TeaserSlideWnd
+Log: Imported: Class Interface.TeaserSlideWnd_j
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\TeaserSlideWnd_ph.uc)
+Log: Class: TeaserSlideWnd_ph extends TeaserSlideWnd
+Log: Imported: Class Interface.TeaserSlideWnd_ph
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\TeaserSlideWnd_th.uc)
+Log: Class: TeaserSlideWnd_th extends TeaserSlideWnd
+Log: Imported: Class Interface.TeaserSlideWnd_th
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\TeaserSlideWnd_tw.uc)
+Log: Class: TeaserSlideWnd_tw extends TeaserSlideWnd
+Log: Imported: Class Interface.TeaserSlideWnd_tw
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\ToolTip.uc)
+Log: Class: ToolTip extends UICommonAPI
+Log: Imported: Class Interface.ToolTip
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\TownMapWnd.uc)
+Log: Class: TownMapWnd extends UIScript
+Log: Imported: Class Interface.TownMapWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\TradeWnd.uc)
+Log: Class: TradeWnd extends UICommonAPI
+Log: Imported: Class Interface.TradeWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\TutorialBtnWnd.uc)
+Log: Class: TutorialBtnWnd extends UICommonAPI
+Log: Imported: Class Interface.TutorialBtnWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\TutorialViewerWnd.uc)
+Log: Class: TutorialViewerWnd extends UICommonAPI
+Log: Imported: Class Interface.TutorialViewerWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\UICommonAPI.uc)
+Log: Class: UICommonAPI extends UIScript
+Log: Imported: Class Interface.UICommonAPI
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\UnionDetailWnd.uc)
+Log: Class: UnionDetailWnd extends UICommonAPI
+Log: Imported: Class Interface.UnionDetailWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\UnionWnd.uc)
+Log: Class: UnionWnd extends UICommonAPI
+Log: Imported: Class Interface.UnionWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\UnrefineryWnd.uc)
+Log: Class: UnrefineryWnd extends UICommonAPI
+Log: Imported: Class Interface.UnrefineryWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\UserPetitionWnd.uc)
+Log: Class: UserPetitionWnd extends UICommonAPI
+Log: Imported: Class Interface.UserPetitionWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\WarehouseWnd.uc)
+Log: Class: WarehouseWnd extends UICommonAPI
+Log: Imported: Class Interface.WarehouseWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\WindBloodMenuWnd.uc)
+Log: Class: WindBloodMenuWnd extends UICommonAPI
+Log: Imported: Class Interface.WindBloodMenuWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\WindBloodShopBtnWnd.uc)
+Log: Class: WindBloodShopBtnWnd extends UICommonAPI
+Log: Imported: Class Interface.WindBloodShopBtnWnd
+Log: FactoryCreateText: Class with ClassFactoryUC (0 1 ..\Interface\Classes\ZoneTitleWnd.uc)
+Log: Class: ZoneTitleWnd extends UICommonAPI
+Log: Imported: Class Interface.ZoneTitleWnd
+Log: Parsing UICommonAPI
+Log: Parsing AbnormalStatusWnd
+Log: Parsing ActionWnd
+Log: Parsing CalculatorWnd
+Log: Parsing ChatWnd
+Log: Parsing DeliverWnd
+Log: Parsing DialogBox
+Log: Parsing DuelManager
+Log: Parsing EventMatchGMFenceWnd
+Log: Parsing EventMatchGMMsgWnd
+Log: Parsing EventMatchGMWnd
+Log: Parsing EventMatchObserverWnd
+Log: Parsing EventMatchSpecialMsgWnd
+Log: Parsing FishViewportWnd
+Log: Parsing InventoryWnd
+Log: Parsing GMInventoryWnd
+Log: Parsing MagicSkillWnd
+Log: Parsing GMMagicSkillWnd
+Log: Parsing QuestTreeWnd
+Log: Parsing GMQuestWnd
+Log: Parsing GMSnoopWnd
+Log: Parsing WarehouseWnd
+Log: Parsing GMWarehouseWnd
+Log: Parsing GMWnd
+Log: Parsing HennaListWnd
+Log: Parsing ItemEnchantWnd
+Log: Parsing MacroEditWnd
+Log: Parsing MacroInfoWnd
+Log: Parsing MacroListWnd
+Log: Parsing MailBtnWnd
+Log: Parsing ManorCropInfoChangeWnd
+Log: Parsing ManorCropInfoSettingWnd
+Log: Parsing ManorCropSellChangeWnd
+Log: Parsing ManorCropSellWnd
+Log: Parsing ManorInfoWnd
+Log: Parsing ManorSeedInfoChangeWnd
+Log: Parsing ManorSeedInfoSettingWnd
+Log: Parsing ShopWnd
+Log: Parsing ManorShopWnd
+Log: Parsing MenuWnd
+Log: Parsing MinimapWnd
+Log: Parsing MinimapWnd_Expand
+Log: Parsing MultiSellWnd
+Log: Parsing NPHRN_BeltWnd
+Log: Parsing NPHRN_DopingWnd
+Log: Parsing NPHRN_EventWnd
+Log: Parsing NPHRN_ItemEnchantWnd
+Log: Parsing NPHRN_KeyWnd
+Log: Parsing NPHRN_LoginWnd
+Log: Parsing NPHRN_MagicSkillWnd
+Log: Parsing NPHRN_PartyWnd
+Warning: C:\Users\Leonan\Downloads\Interface Classic Interlude\Interface Classic Interude\repo\InterludeClassicInterface\ILCompiler\Interface\Classes\NPHRN_PartyWnd.uc(25) : Warning, 'ETextureCtrlType' obscures 'ETextureCtrlType' defined in base class.
+Log: Parsing NPHRN_PlayerSkillGauge
+Log: Parsing NPHRN_PotionsWnd
+Log: Parsing NPHRN_Registry
+Log: Parsing NPHRN_ReportWnd
+Log: Parsing ObserverWnd
+Log: Parsing PartyWnd
+Warning: C:\Users\Leonan\Downloads\Interface Classic Interlude\Interface Classic Interude\repo\InterludeClassicInterface\ILCompiler\Interface\Classes\PartyWnd.uc(26) : Warning, 'ETextureCtrlType' obscures 'ETextureCtrlType' defined in base class.
+Log: Parsing PartyWndCompact
+Log: Parsing PCCafeEventWnd
+Log: Parsing PetitionFeedBackWnd
+Log: Parsing PetitionWnd
+Log: Parsing PetWnd
+Log: Parsing PrivateShopWnd
+Log: Parsing QuestBtnWnd
+Log: Parsing RecipeBookWnd
+Log: Parsing RecipeShopWnd
+Log: Parsing RecipeTreeWnd
+Log: Parsing RefineryWnd
+Log: Parsing RestartMenuWnd
+Log: Parsing SelectDeliverWnd
+Log: Parsing Shortcut
+Log: Parsing ShortcutWnd
+Log: Parsing SiegeInfoWnd
+Log: Parsing SkillTrainInfoWnd
+Log: Parsing SkillTrainListWnd
+Log: Parsing SystemMenuWnd
+Log: Parsing TargetStatusWnd
+Log: Parsing TeaserSlideWnd
+Log: Parsing TeaserSlideWnd_cn
+Log: Parsing TeaserSlideWnd_e
+Log: Parsing TeaserSlideWnd_j
+Log: Parsing TeaserSlideWnd_ph
+Log: Parsing TeaserSlideWnd_th
+Log: Parsing TeaserSlideWnd_tw
+Log: Parsing ToolTip
+Log: Parsing TradeWnd
+Log: Parsing TutorialBtnWnd
+Log: Parsing TutorialViewerWnd
+Log: Parsing UnionDetailWnd
+Log: Parsing UnionWnd
+Log: Parsing UnrefineryWnd
+Log: Parsing UserPetitionWnd
+Log: Parsing WindBloodMenuWnd
+Log: Parsing WindBloodShopBtnWnd
+Log: Parsing ZoneTitleWnd
+Log: Parsing BenchMarkMenuWnd
+Log: Parsing BoardWnd
+Log: Parsing ChatFilterWnd
+Log: Parsing ClanDrawerWnd
+Log: Parsing ClanWnd
+Log: Parsing GMClanWnd
+Log: Parsing CouponEventWnd
+Log: Parsing DetailStatusWnd
+Log: Parsing GMDetailStatusWnd
+Log: Parsing GametipWnd
+Log: Parsing GuideWnd
+Log: Parsing HelpHtmlWnd
+Log: Parsing HennaInfoWnd
+Log: Parsing HeroTowerWnd
+Log: Parsing InviteClanPopWnd
+Log: Parsing LoadingWnd
+Log: Parsing LoadingWnd_cn
+Log: Parsing LoadingWnd_e
+Log: Parsing LoadingWnd_j
+Log: Parsing LoadingWnd_k
+Log: Parsing LoadingWnd_th
+Log: Parsing LoadingWnd_tw
+Log: Parsing MainWnd
+Log: Parsing OlympiadBuffWnd
+Log: Parsing OlympiadBuff1Wnd
+Log: Parsing OlympiadBuff2Wnd
+Log: Parsing OlympiadControlWnd
+Log: Parsing OlympiadPlayerWnd
+Log: Parsing OlympiadPlayer1Wnd
+Log: Parsing OlympiadPlayer2Wnd
+Log: Parsing OlympiadTargetWnd
+Log: Parsing OnScreenMessageWnd
+Log: Parsing OptionWnd
+Log: Parsing PartyMatchMakeRoomWnd
+Log: Parsing PartyMatchWndCommon
+Log: Parsing PartyMatchOutWaitListWnd
+Log: Parsing PartyMatchRoomWnd
+Log: Parsing PartyMatchWaitListWnd
+Log: Parsing PartyMatchWnd
+Log: Parsing PartyWndOption
+Log: Parsing PetStatusWnd
+Log: Parsing QuestListWnd
+Log: Parsing RadarContainerWnd
+Log: Parsing RadarWnd
+Log: Parsing RecipeBuyListWnd
+Log: Parsing RecipeBuyManufactureWnd
+Log: Parsing RecipeManufactureWnd
+Log: Parsing ReplayListWnd
+Log: Parsing ReplayLogoWnd
+Log: Parsing ReplayLogoWnd_cn
+Log: Parsing ReplayLogoWnd_e
+Log: Parsing ReplayLogoWnd_j
+Log: Parsing ReplayLogoWnd_k
+Log: Parsing ReplayLogoWnd_th
+Log: Parsing ReplayLogoWnd_tw
+Log: Parsing SSQMainBoard
+Log: Parsing StatusWnd
+Log: Parsing SummonedStatusWnd
+Log: Parsing SummonedWnd
+Log: Parsing SystemMsgWnd
+Log: Parsing TownMapWnd
+Log: Compiling UICommonAPI
+Error: C:\Users\Leonan\Downloads\Interface Classic Interlude\Interface Classic Interude\repo\InterludeClassicInterface\ILCompiler\Interface\Classes\UICommonAPI.uc(423) : Error, Unrecognized member 'SetCheck' in class 'Class'
+Log: Compile aborted due to errors.
+Log: Failure - 1 error(s), 2 warning(s)
+Exit: Preparing to exit.
+Log: Purging garbage
+Log: Unbound to Core.dll
+Log: Unbound to Editor.dll
+Log: Unbound to Engine.dll
+Exit: Editor shut down
+Log: 5069056.7ms Unloading: Package Core
+Log: 5069059.0ms Unloading: Package Engine
+Log: 5069090.1ms Unloading: Package NWindow
+Log: Garbage: objects: 22142->0; refs: 0
+Exit: Object subsystem successfully closed.
+Exit: Exiting.
+Log: Waiting for file streaming thread to finish...
+Init: CPU FP precision changed from 53 to 64-bit
+Uninitialized: Name subsystem shut down
+Uninitialized: Allocation checking disabled
+Uninitialized: Log file closed, 09/12/17 22:08:14
