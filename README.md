@@ -1,7 +1,7 @@
 # Interlude Classic Interface
 O código não está funcional, esse repositório é para colaboração e correção dos bugs.
 
-(Tópico oficial)[Repositorie for Interlude Classic Interface]
+Tópico oficial: https://www.l2jbrasil.com/index.php?/topic/123789-interface-classic-to-interlude
 
 
 
